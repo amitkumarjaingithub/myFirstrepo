@@ -1,3 +1,6 @@
 deleted the file.txt
 
 first time type ing something... will commit separately with readme txt
+
+
+updateing it from github web
